@@ -1,0 +1,24 @@
+{
+  "name": "simple-deploy-react-to-heroku",
+  "version": "1.0.0",
+  "description": "Learning react application to heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatuanem199801/simple-deploy-react-to-heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hatuanem199801/simple-deploy-react-to-heroku/issues"
+  },
+  "homepage": "https://github.com/hatuanem199801/simple-deploy-react-to-heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "password-generator": "^2.2.3"
+  }
+}
