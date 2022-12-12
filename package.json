@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/hatuanem199801/simple-deploy-react-to-heroku#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "password-generator": "^2.2.3"
   }
 }
